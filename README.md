@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GeorgeKaraszi/rails5_api_skeleton.svg?branch=master)](https://travis-ci.org/GeorgeKaraszi/rails5_api_skeleton)
+
 # NOTE: THIS IS A Rails 5 API setup
 # README
 
