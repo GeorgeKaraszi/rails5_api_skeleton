@@ -19,7 +19,8 @@ Environment Variables:
 * Rename `.env.example` to `.env.[ENV_NAME]`
 
 Database information:
-* Database used is Postgres 9.5.3
+* Database used is Postgres 9.4
+* will work with 9.5 locally but not with travis
 
 
 Travis info:
