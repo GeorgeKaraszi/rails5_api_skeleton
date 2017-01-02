@@ -12,7 +12,7 @@ Ruby Version:
 
 Project settings file:
 
-* Redo all `*.example` to `*.yml` files
+* Redo all `*.example.yml` to `*.yml` files
 
 Environment Variables:
 
@@ -21,6 +21,11 @@ Environment Variables:
 Database information:
 * Database used is Postgres 9.5.3
 
+
+Travis info:
+
+* Each core `*.example.*` file is copied over using the `/bin/setup` command
+    * IE: When travis runs: `database.yml.example` is copied to `database.yml` and runs those default settings
 
 
 This has been pre-configured with RSPEC setup.
